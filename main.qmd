@@ -136,13 +136,13 @@ if (Indice_SMP < 4.4){
 }
 
 if (PH_Recomendado == 6.5){
-  print("construcao")
+  print("PH 6.5 PASSOU")
 }else if (PH_Recomendado == 6){
-  print("construcao")
+  print("PH 6 PASSOU")
 }else if (PH_Recomendado == 5.5){
-  print("construcao")
+  print("PH 5.5 PASSOU")
 }else {
-  print("construcao")
+  print("VISH")
 }
 
 
